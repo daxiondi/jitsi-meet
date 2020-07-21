@@ -183,7 +183,7 @@ var config = {
     //     // by default uses:
     //     // 'https://jitsi-meet.example.com/static/oauth.html'
     //     redirectURI:
-    //          'https://jitsi-meet.example.com/subfolder/static/oauth.html'
+    //          'https://jitsi-meet.example.com/static/oauth.html'
     // },
     // When integrations like dropbox are enabled only that will be shown,
     // by enabling fileRecordingsServiceEnabled, we show both the integrations
